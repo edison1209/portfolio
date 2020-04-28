@@ -1,0 +1,117 @@
+div {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f4f4f4;
+}
+
+p {
+  font-size: 1rem;
+}
+
+
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  border-width: 6px;
+  background-color: #f4f4f4;
+  color: #84a9ac;
+  margin: 50px auto 50px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  margin: 135px auto 0 auto;
+  color: #00909e;
+}
+
+h2 {
+  color: #00909e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #4ea5ad;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #f4eeff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-description {
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  margin: 80px auto 20px;
+}
+
+.skill-img-java {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img-angular {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 30%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.message-btn {
+  padding: 20px;
+  background-color: #4ea5ad;
+  color: #f4f4f4;
+  border-radius: 8px;
+  font-size: 1.15rem;
+}
+
+.bottom-container {
+  margin-top: 60px;
+  color: #f4f4f4;
+  padding: 30px;
+  background-color: #4ea5ad;
+}
+
+a {
+  text-decoration: none;
+  margin: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  color: #f4f4f4;
+}
+
+.copyright-text {
+  font-size: 1rem;
+  margin-top: 30px;
+}
